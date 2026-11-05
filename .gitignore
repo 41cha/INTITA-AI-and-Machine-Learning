@@ -3,6 +3,9 @@
 
 *.h5
 
-*.h5
+retail-products-classification/train/
+retail-products-classification/test/
+retail-products-classification/*.csv
+retail-products-classification/*.npy
 
-retail-products-classification
+*.h5
